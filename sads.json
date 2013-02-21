@@ -1,0 +1,72 @@
+{
+  
+  "forms": [
+    "Inside %badguy's secret %mat den: scam leaves %victim out of pocket by £100,000",
+    "\"%quote\" - %victim suffers at the hands of loud-mouth %badguy",
+    "The sad story of the %victim with %ailment: %badguy denies compensation payoff.",
+    "%badguy kills %lowrand people in surprise attack: %victim tells their story.",
+    "%victim killed on their way home - %badguy still at large"
+  ],
+
+  "victims": [
+    "pensioner",
+    "single mum",
+    "anorexic",
+    "father",
+    "triple amputee",
+    "Tesco customer",
+    "mother of free",
+    "soldier",
+    "puppy",
+    "sex slave",
+    "veteren",
+    "aspiring model",
+    "family of three"
+  ],
+
+  "badguys": [
+    "muslim",
+    "labour MP",
+    "drug addict",
+    "Jeremy Kyle mum",
+    "fraudster",
+    "cancer",
+    "MP",
+    "chinese",
+    "prostitute",
+    "drug dealer",
+    "drug addict",
+    "addict"
+  ],
+
+  "materials" : [
+    "horsemeat",
+    "cannabis",
+    "expenses",
+    "crack",
+    "credit cards",
+    "bank accounts",
+    "cocaine"
+  ],
+
+  "quotes" : [
+    "You're Fired",
+    "Get Lost",
+    "You are fat",
+    "You owe us £500",
+    "You are racist",
+    "You have cancer",
+    "We hate you"
+  ],
+
+  "ailments" : [
+    "cancer",
+    "swine flu",
+    "lymphoma",
+    "TB",
+    "SARS",
+    "bird flu",
+    "H5N1"
+  ]
+
+}
