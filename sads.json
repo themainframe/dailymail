@@ -6,25 +6,29 @@
         "%badguy kills %lowrand people in surprise attack: %victim tells their story.",
         "%victim killed on their way home - %badguy still at large",
         "New research says: %object now cause %ailment",
-        "%object linked to rise in %ailment. %victim outraged!",
+        "%object linked to rise in %ailment - %victims fearful",
         "As many as %lowrand Labour MPs now claiming expenses for \"extra %object\"",
         "%badsynonym %badguy bomber's plan, foiled by %victim",
         "\"%object may cure %ailment\" says leading Doctor",
         "%badguy insists on more benefits - %victims outraged!",
         "%badguys DEADLY guide to producing %object: EXPOSED",
         "\"MPs are scum\" - %victim lashes out after benefits blunder",
-        "Coma %victim's family outraged after %badguy hurls insults outside hospital"
+        "%badguy has %lowrand children - %victim pays the bills",
+        "Coma %victim's family outraged after %badguy hurls insults outside hospital",
+        "%victim dies of %ailment after being punched by %badguy"
     ],
     "objects": [
-        "caravans",
+        "cancer",
         "guns",
         "drinking water",
-        "phones",
+        "mobile phones",
         "parking tickets",
         "common sense",
         "drugs",
-        "police",
-        "truncheons"
+        "porn",
+        "MP's expenses",
+        "9/11",
+        "London bombing"
     ],
     "victims": [
         "pensioner",
@@ -88,7 +92,10 @@
         "Saville family",
         "Homeless man",
         "British bomber",
-        "Home-grown terror cell"
+        "Home-grown terror cell",
+        "London bombers",
+        "NHS worker",
+        "Hospital cleaner"
     ],
     "materials": [
         "horsemeat",
@@ -112,9 +119,10 @@
         "You are racist",
         "You have cancer",
         "We hate you",
-        "Get out!",
+        "Get out of the UK",
         "You are obese",
-        "Eight at the same time..."
+        "We don't like your type",
+        "Spare any change?"
     ],
     "ailments": [
         "cancer",
@@ -128,7 +136,9 @@
         "MRSA",
         "Fat Blindness",
         "Comas",
-        "Triple Amputations"
+        "Triple Amputations",
+        "ruptured liver",
+        "hearing loss"
     ],
     "badsynonyms": [
         "evil",
@@ -142,6 +152,8 @@
         "disgusting",
         "obscene",
         "horrific",
-        "unpatriotic"
+        "unpatriotic",
+        "scandalous",
+        "disruptive"
     ]
 }
