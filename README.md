@@ -1,6 +1,6 @@
 Daily Mail Headline Generator
 --------
-Produces tantalising headlines of the variety you might see in the [Daily Mail](http://www.dailymail.com)...
+Produces tantalising headlines of the variety you might see in the [Daily Mail](http://www.dailymail.co.uk)...
 
 Thank you to everybody who has contributed.
 
