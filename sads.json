@@ -6,7 +6,33 @@
     "The sad story of the %victim with %ailment: %badguy denies compensation payoff.",
     "%badguy kills %lowrand people in surprise attack: %victim tells their story.",
     "%victim killed on their way home - %badguy still at large"
+    "New research says: %objects now cause %ailment",
+    "%objects linked to rise in %ailments. %victim outraged!"
   ],
+  
+  "objects": [
+    "sheep", 
+    "cars", 
+    "dogs", 
+    "caravans", 
+    "goats", 
+    "guns", 
+    "water",
+    "light", 
+    "phones", 
+    "computers", 
+    "hackers", 
+    "books", 
+    "common-sense",
+  	"drugs", 
+    "police", 
+    "beds", 
+    "roads", 
+    "wood", 
+    "grass", 
+    "trees", 
+    "air"
+    ]
 
   "victims": [
     "pensioner",
@@ -21,7 +47,8 @@
     "sex slave",
     "veteren",
     "aspiring model",
-    "family of three"
+    "family of three",
+    "Brit"
   ],
 
   "badguys": [
@@ -36,7 +63,11 @@
     "prostitute",
     "drug dealer",
     "drug addict",
-    "addict"
+    "addict",
+    "immigrant", 
+    "refugee",
+    "French",
+    "left-wing nutter"
   ],
 
   "materials" : [
@@ -46,7 +77,9 @@
     "crack",
     "credit cards",
     "bank accounts",
-    "cocaine"
+    "cocaine",
+    "gun",
+    "knife"
   ],
 
   "quotes" : [
@@ -56,7 +89,8 @@
     "You owe us £500",
     "You are racist",
     "You have cancer",
-    "We hate you"
+    "We hate you",
+    "Get out!"
   ],
 
   "ailments" : [
