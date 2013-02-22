@@ -20,7 +20,9 @@ function gen_dm_headline()
 
   // Convert to array
   foreach($sads as $key => & $value)
+  {
     $sads[$key] = (array)$value;
+  }
 
   // ------------------------------------------------------
   // Randomise
@@ -32,6 +34,7 @@ function gen_dm_headline()
   shuffle($sads['quotes']);
   shuffle($sads['materials']);
   shuffle($sads['objects']);
+  shuffle($sads['badsynonyms']);
 
   // ------------------------------------------------------
   // Perform replacements
@@ -44,6 +47,7 @@ function gen_dm_headline()
   $form = str_replace('%quote', ucfirst(current($sads['quotes'])), $form);
   $form = str_replace('%ailment', ucfirst(current($sads['ailments'])), $form);
   $form = str_replace('%lowrand', rand(2, 15), $form);
+  $form = str_replace('%badsynonym', strtoupper(current($sads['badsynonyms'])), $form);
 
   return $form;
 }
