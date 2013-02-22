@@ -17,7 +17,13 @@
         "Coma %victim's family outraged after %badguy hurls insults outside hospital",
         "%victim dies of %ailment after being punched by %badguy",
         "%badguy hurled %badsynonym sexual advances at shocked %victim",
-        "\"%quote\" say 90% of %badguys - %victim responds"
+        "\"%quote\" say 90% of %badguys - %victim responds",
+        "%victim maimed in %badsynonym school shooting - distraught parents blame %badguys",
+        "BACKLASH over %badguy's plan to divert cash to funding MORE %object",
+        "%badsynonym %object stash discovered in local neighbourhood... BY %victim",
+        "REVEALED: MANSION-OWNING %badguy has been claiming benefits for %lowrand months",
+        "REVEALED: The %badsynonym scheme by %badguy to divert YOUR tax money",
+        "SHOCKING: University gives place to %badguy - %victim left JOBLESS"
     ],
     "objects": [
         "cancer",
@@ -148,7 +154,6 @@
         "MRSA",
         "Fat Blindness",
         "Comas",
-        "Triple Amputations",
         "ruptured liver",
         "hearing loss"
     ],
