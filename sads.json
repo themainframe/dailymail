@@ -8,7 +8,11 @@
         "New research says: %object now cause %ailment",
         "%object linked to rise in %ailment. %victim outraged!",
         "\"%object may cure %ailment\" says leading Doctor",
-        "As many as %lowrand Labour MPs now claiming expenses for \"extra %object\""
+        "As many as %lowrand Labour MPs now claiming expenses for \"extra %object\"",
+        "%badguy insists on more benefits - %victims outraged!",
+        "%badguys DEADLY guide to producing %objects: EXPOSED",
+        "\"MPs are scum\" - %victim lashes out after benefits blunder",
+        "Coma %victim's family outraged after %badguy hurls insults outside hospital"
     ],
     "objects": [
         "caravans",
