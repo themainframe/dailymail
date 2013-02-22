@@ -8,8 +8,7 @@
  */
 /**
  * Generate a headline worthy of appearance in "The Daily Mail"
- * 
- * @param int $flags Optionally, a bitwise mesh of objectional viewpoints.
+ *
  * @return string A viciously right-wing headline.
  */
 function gen_dm_headline()
@@ -54,10 +53,13 @@ function gen_dm_headline()
   $form = str_replace('%victim', strtoupper(current($sads['victims'])), $form);
   $form = str_replace('%badguy', ucfirst(current($sads['badguys'])), $form);
   $form = str_replace('%mat', current($sads['materials']), $form);
-  $form = str_replace('%object', current($sads['objects'], $form);
+  $form = str_replace('%object', current($sads['objects']), $form);
   $form = str_replace('%quote', ucfirst(current($sads['quotes'])), $form);
   $form = str_replace('%ailment', ucfirst(current($sads['ailments'])), $form);
   $form = str_replace('%lowrand', rand(2, 15), $form);
 
   return $form;
 }
+
+
+print gen_dm_headline();
