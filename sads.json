@@ -15,7 +15,9 @@
         "\"MPs are scum\" - %victim lashes out after benefits blunder",
         "%badguy has %lowrand children - %victim pays the bills",
         "Coma %victim's family outraged after %badguy hurls insults outside hospital",
-        "%victim dies of %ailment after being punched by %badguy"
+        "%victim dies of %ailment after being punched by %badguy",
+        "%badguy hurled %badsynonym sexual advances at shocked %victim",
+        "\"%quote\" say 90% of %badguys - %victim responds"
     ],
     "objects": [
         "cancer",
@@ -54,7 +56,10 @@
         "Serviceman",
         "Brit War Hero",
         "\"Racist\" woman",
-        "Englishman"
+        "Englishman",
+        "Scarred child",
+        "Pub Landlord",
+        "Local business owner"
     ],
     "badguys": [
         "muslim",
@@ -82,8 +87,7 @@
         "Councillor",
         "Aristocrat",
         "Teenager",
-        "MEP",
-        "The EU",
+        "EU Representative",
         "gay",
         "paedo",
         "BBC Presenter",
@@ -95,7 +99,10 @@
         "Home-grown terror cell",
         "London bombers",
         "NHS worker",
-        "Hospital cleaner"
+        "Hospital cleaner",
+        "Miliband",
+        "Ed Miliband",
+        "Simon Cowell"
     ],
     "materials": [
         "horsemeat",
@@ -122,7 +129,8 @@
         "Get out of the UK",
         "You are obese",
         "We don't like your type",
-        "Spare any change?"
+        "Spare any change?",
+        "Just go and die"
     ],
     "ailments": [
         "cancer",
