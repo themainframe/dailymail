@@ -5,8 +5,8 @@
         "The sad story of the %victim with %ailment: %badguy denies compensation payoff.",
         "%badguy kills %lowrand people in surprise attack: %victim tells their story.",
         "%victim killed on their way home - %badguy still at large",
-        "New research says: %objects now cause %ailment",
-        "%objects linked to rise in %ailments. %victim outraged!"
+        "New research says: %object now cause %ailment",
+        "%object linked to rise in %ailments. %victim outraged!"
     ],
     "objects": [
         "sheep",
@@ -21,7 +21,7 @@
         "computers",
         "hackers",
         "books",
-        "common-sense",
+        "common sense",
         "drugs",
         "police",
         "beds",
@@ -45,7 +45,8 @@
         "veteren",
         "aspiring model",
         "family of three",
-        "Brit"
+        "Brit",
+        "Brit patriot"
     ],
     "badguys": [
         "muslim",
@@ -63,7 +64,11 @@
         "immigrant",
         "refugee",
         "French",
-        "left-wing nutter"
+        "left-wing nutter",
+        "GP",
+        "Asian doctor",
+        "Jeremy Kyle",
+        "Morrissey"
     ],
     "materials": [
         "horsemeat",
@@ -74,7 +79,8 @@
         "bank accounts",
         "cocaine",
         "gun",
-        "knife"
+        "knife",
+        "drug"
     ],
     "quotes": [
         "You're Fired",
@@ -84,7 +90,8 @@
         "You are racist",
         "You have cancer",
         "We hate you",
-        "Get out!"
+        "Get out!",
+        "You are obese"
     ],
     "ailments": [
         "cancer",
@@ -93,6 +100,7 @@
         "TB",
         "SARS",
         "bird flu",
-        "H5N1"
+        "H5N1",
+        "foot and mouth disease"
     ]
 }
