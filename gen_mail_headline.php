@@ -8,8 +8,7 @@
  */
 /**
  * Generate a headline worthy of appearance in "The Daily Mail"
- * 
- * @param int $flags Optionally, a bitwise mesh of objectional viewpoints.
+ *
  * @return string A viciously right-wing headline.
  */
 function gen_dm_headline()
@@ -61,3 +60,6 @@ function gen_dm_headline()
 
   return $form;
 }
+
+
+print gen_dm_headline();
