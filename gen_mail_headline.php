@@ -31,8 +31,8 @@ function gen_dm_headline()
     'The sad story of the %victim with %ailment: %badguy denies compensation payoff.',
     '%badguy kills %lowrand people in surprise attack: %victim tells their story.',
     '%victim killed on their way home - %badguy still at large',
-    "New research says: %objects now cause %ailment",
-    "%objects linked to rise in %ailments. %victim outraged!"
+    "New research says: %object now cause %ailment",
+    "%object linked to rise in %ailments. %victim outraged!"
   );
 
   // ------------------------------------------------------
@@ -53,7 +53,7 @@ function gen_dm_headline()
   $form = str_replace('%victim', strtoupper(current($sads['victims'])), $form);
   $form = str_replace('%badguy', ucfirst(current($sads['badguys'])), $form);
   $form = str_replace('%mat', current($sads['materials']), $form);
-  $form = str_replace('%object', current($sads['objects']), $form);
+  $form = str_replace('%object', strtoupper(current($sads['objects'])), $form);
   $form = str_replace('%quote', ucfirst(current($sads['quotes'])), $form);
   $form = str_replace('%ailment', ucfirst(current($sads['ailments'])), $form);
   $form = str_replace('%lowrand', rand(2, 15), $form);
