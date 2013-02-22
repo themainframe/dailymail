@@ -1,4 +1,7 @@
-dailymail
-=========
+Daily Mail Headline Generator
+--------
+Produces tantalising headlines of the variety you might see in the [Daily Mail](http://www.dailymail.com)...
 
-Randomly generates excellent Daily Mail headlines.  And maybe tweets them.  Fork and add your own ;)
+Thank you to everybody who has contributed.
+
+See it in [Action!](http://work.damow.net/random/dailymail)
