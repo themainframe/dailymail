@@ -6,7 +6,7 @@
         "%badguy kills %lowrand people in surprise attack: %victim tells their story.",
         "%victim killed on their way home - %badguy still at large",
         "New research says: %object now cause %ailment",
-        "%object linked to rise in %ailments. %victim outraged!",
+        "%object linked to rise in %ailment. %victim outraged!",
         "As many as %lowrand Labour MPs now claiming expenses for \"extra %objects\""
     ],
     "objects": [
@@ -33,7 +33,7 @@
         "soldier",
         "puppy",
         "sex slave",
-        "veteren",
+        "veteran",
         "aspiring model",
         "family of three",
         "Brit",
@@ -51,7 +51,7 @@
         "muslim",
         "labour MP",
         "drug addict",
-        "Jeremy Kyle mum",
+        "Jeremy Kyle's mum",
         "fraudster",
         "cancer",
         "MP",
@@ -82,8 +82,8 @@
         "cannabis",
         "expenses",
         "crack",
-        "credit cards",
-        "bank accounts",
+        "credit card",
+        "bank account",
         "cocaine",
         "gun",
         "knife",
@@ -114,7 +114,7 @@
         "foot and mouth disease",
         "MRSA",
         "Fat Blindness",
-        "Coma",
-        "Triple Amputee"
+        "Comas",
+        "Triple Amputations"
     ]
 }
