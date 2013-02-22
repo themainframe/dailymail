@@ -7,6 +7,7 @@
         "%victim killed on their way home - %badguy still at large",
         "New research says: %object now cause %ailment",
         "%object linked to rise in %ailment. %victim outraged!",
+        "\"%object may cure %ailment\" says leading Doctor",
         "As many as %lowrand Labour MPs now claiming expenses for \"extra %object\""
     ],
     "objects": [
@@ -75,7 +76,11 @@
         "Aristocrat",
         "Teenager",
         "MEP",
-        "The EU"
+        "The EU",
+        "BBC Presenter",
+        "Jimmy Saville",
+        "British bombers",
+        "Home-grown terror cell"
     ],
     "materials": [
         "horsemeat",
