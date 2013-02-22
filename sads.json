@@ -8,7 +8,9 @@
         "New research says: %object now cause %ailment",
         "%object linked to rise in %ailment. %victim outraged!",
         "As many as %lowrand Labour MPs now claiming expenses for \"extra %object\"",
-        "%badsynonym %badguy bomber's plan, foiled by %victim"
+        "%badsynonym %badguy bomber's plan, foiled by %victim",
+        "\"%object may cure %ailment\" says leading Doctor",
+        "As many as %lowrand Labour MPs now claiming expenses for \"extra %object\""
     ],
     "objects": [
         "caravans",
@@ -78,7 +80,11 @@
         "MEP",
         "The EU",
         "gay",
-        "paedo"
+        "paedo",
+        "BBC Presenter",
+        "Jimmy Saville",
+        "British bombers",
+        "Home-grown terror cell"
     ],
     "materials": [
         "horsemeat",
