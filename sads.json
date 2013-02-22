@@ -10,14 +10,9 @@
         "As many as %lowrand Labour MPs now claiming expenses for \"extra %objects\""
     ],
     "objects": [
-        "sheep",
-        "cars",
-        "dogs",
         "caravans",
-        "goats",
         "guns",
-        "water",
-        "light",
+        "drinking water",
         "phones",
         "computers",
         "hackers",
@@ -25,13 +20,6 @@
         "common sense",
         "drugs",
         "police",
-        "beds",
-        "roads",
-        "wood",
-        "grass",
-        "trees",
-        "air",
-        "sun",
         "truncheon"
     ],
     "victims": [
