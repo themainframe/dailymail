@@ -6,7 +6,9 @@
         "%badguy kills %lowrand people in surprise attack: %victim tells their story.",
         "%victim killed on their way home - %badguy still at large",
         "New research says: %object now cause %ailment",
-        "%object linked to rise in %ailments. %victim outraged!"
+        "%object linked to rise in %ailments. %victim outraged!",
+        "As many as %lowrand Labour MPs now claiming expenses for \"extra %objects\"",
+        "As many as %lowrand Labour MPs now claiming expenses for \"extra %objects\""
     ],
     "objects": [
         "sheep",
@@ -46,7 +48,9 @@
         "aspiring model",
         "family of three",
         "Brit",
-        "Brit patriot"
+        "Brit patriot",
+        "polish",
+        "muslim"
     ],
     "badguys": [
         "muslim",
@@ -101,6 +105,7 @@
         "SARS",
         "bird flu",
         "H5N1",
-        "foot and mouth disease"
+        "foot and mouth disease",
+        "MRSA"
     ]
 }
