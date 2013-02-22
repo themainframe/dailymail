@@ -32,7 +32,7 @@ function gen_dm_headline()
     '%badguy kills %lowrand people in surprise attack: %victim tells their story.',
     '%victim killed on their way home - %badguy still at large',
     "New research says: %object now cause %ailment",
-    "%object linked to rise in %ailments. %victim outraged!"
+    "%object linked to rise in %ailment. %victim outraged!"
   );
 
   // ------------------------------------------------------
