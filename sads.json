@@ -1,106 +1,98 @@
 {
-  
-  "forms": [
-    "Inside %badguy's secret %mat den: scam leaves %victim out of pocket by £100,000",
-    "\"%quote\" - %victim suffers at the hands of loud-mouth %badguy",
-    "The sad story of the %victim with %ailment: %badguy denies compensation payoff.",
-    "%badguy kills %lowrand people in surprise attack: %victim tells their story.",
-    "%victim killed on their way home - %badguy still at large"
-    "New research says: %objects now cause %ailment",
-    "%objects linked to rise in %ailments. %victim outraged!"
-  ],
-  
-  "objects": [
-    "sheep", 
-    "cars", 
-    "dogs", 
-    "caravans", 
-    "goats", 
-    "guns", 
-    "water",
-    "light", 
-    "phones", 
-    "computers", 
-    "hackers", 
-    "books", 
-    "common-sense",
-  	"drugs", 
-    "police", 
-    "beds", 
-    "roads", 
-    "wood", 
-    "grass", 
-    "trees", 
-    "air"
+    "forms": [
+        "Inside %badguy's secret %mat den: scam leaves %victim out of pocket by £100,000",
+        "\"%quote\" - %victim suffers at the hands of loud-mouth %badguy",
+        "The sad story of the %victim with %ailment: %badguy denies compensation payoff.",
+        "%badguy kills %lowrand people in surprise attack: %victim tells their story.",
+        "%victim killed on their way home - %badguy still at large",
+        "New research says: %objects now cause %ailment",
+        "%objects linked to rise in %ailments. %victim outraged!"
+    ],
+    "objects": [
+        "sheep",
+        "cars",
+        "dogs",
+        "caravans",
+        "goats",
+        "guns",
+        "water",
+        "light",
+        "phones",
+        "computers",
+        "hackers",
+        "books",
+        "common-sense",
+        "drugs",
+        "police",
+        "beds",
+        "roads",
+        "wood",
+        "grass",
+        "trees",
+        "air"
+    ],
+    "victims": [
+        "pensioner",
+        "single mum",
+        "anorexic",
+        "father",
+        "triple amputee",
+        "Tesco customer",
+        "mother of free",
+        "soldier",
+        "puppy",
+        "sex slave",
+        "veteren",
+        "aspiring model",
+        "family of three",
+        "Brit"
+    ],
+    "badguys": [
+        "muslim",
+        "labour MP",
+        "drug addict",
+        "Jeremy Kyle mum",
+        "fraudster",
+        "cancer",
+        "MP",
+        "chinese",
+        "prostitute",
+        "drug dealer",
+        "drug addict",
+        "addict",
+        "immigrant",
+        "refugee",
+        "French",
+        "left-wing nutter"
+    ],
+    "materials": [
+        "horsemeat",
+        "cannabis",
+        "expenses",
+        "crack",
+        "credit cards",
+        "bank accounts",
+        "cocaine",
+        "gun",
+        "knife"
+    ],
+    "quotes": [
+        "You're Fired",
+        "Get Lost",
+        "You are fat",
+        "You owe us £500",
+        "You are racist",
+        "You have cancer",
+        "We hate you",
+        "Get out!"
+    ],
+    "ailments": [
+        "cancer",
+        "swine flu",
+        "lymphoma",
+        "TB",
+        "SARS",
+        "bird flu",
+        "H5N1"
     ]
-
-  "victims": [
-    "pensioner",
-    "single mum",
-    "anorexic",
-    "father",
-    "triple amputee",
-    "Tesco customer",
-    "mother of free",
-    "soldier",
-    "puppy",
-    "sex slave",
-    "veteren",
-    "aspiring model",
-    "family of three",
-    "Brit"
-  ],
-
-  "badguys": [
-    "muslim",
-    "labour MP",
-    "drug addict",
-    "Jeremy Kyle mum",
-    "fraudster",
-    "cancer",
-    "MP",
-    "chinese",
-    "prostitute",
-    "drug dealer",
-    "drug addict",
-    "addict",
-    "immigrant", 
-    "refugee",
-    "French",
-    "left-wing nutter"
-  ],
-
-  "materials" : [
-    "horsemeat",
-    "cannabis",
-    "expenses",
-    "crack",
-    "credit cards",
-    "bank accounts",
-    "cocaine",
-    "gun",
-    "knife"
-  ],
-
-  "quotes" : [
-    "You're Fired",
-    "Get Lost",
-    "You are fat",
-    "You owe us £500",
-    "You are racist",
-    "You have cancer",
-    "We hate you",
-    "Get out!"
-  ],
-
-  "ailments" : [
-    "cancer",
-    "swine flu",
-    "lymphoma",
-    "TB",
-    "SARS",
-    "bird flu",
-    "H5N1"
-  ]
-
 }
