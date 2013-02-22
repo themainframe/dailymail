@@ -31,7 +31,9 @@
         "wood",
         "grass",
         "trees",
-        "air"
+        "air",
+        "sun",
+        "truncheon"
     ],
     "victims": [
         "pensioner",
@@ -50,7 +52,9 @@
         "Brit",
         "Brit patriot",
         "polish",
-        "muslim"
+        "muslim",
+        "Schoolgirl",
+        "British Graduate"
     ],
     "badguys": [
         "muslim",
@@ -72,7 +76,12 @@
         "GP",
         "Asian doctor",
         "Jeremy Kyle",
-        "Morrissey"
+        "Morrissey",
+        "Taxman",
+        "Corporate Giants",
+        "Hardcore Criminals",
+        "Councillor",
+        "Aristocrat"
     ],
     "materials": [
         "horsemeat",
@@ -84,7 +93,9 @@
         "cocaine",
         "gun",
         "knife",
-        "drug"
+        "drug",
+        "canabis",
+        "road side bomb"
     ],
     "quotes": [
         "You're Fired",
@@ -95,7 +106,8 @@
         "You have cancer",
         "We hate you",
         "Get out!",
-        "You are obese"
+        "You are obese",
+        "Eight at the same time..."
     ],
     "ailments": [
         "cancer",
@@ -106,6 +118,9 @@
         "bird flu",
         "H5N1",
         "foot and mouth disease",
-        "MRSA"
+        "MRSA",
+        "Fat Blindness",
+        "Coma",
+        "Triple Amputee"
     ]
 }
