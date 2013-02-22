@@ -10,27 +10,17 @@
         "As many as %lowrand Labour MPs now claiming expenses for \"extra %objects\""
     ],
     "objects": [
-        "sheep",
-        "cars",
-        "dogs",
         "caravans",
-        "goats",
         "guns",
-        "water",
-        "light",
+        "drinking water",
         "phones",
         "computers",
         "hackers",
-        "books",
+        "reading glasses",
         "common sense",
         "drugs",
         "police",
-        "beds",
-        "roads",
-        "wood",
-        "grass",
-        "trees",
-        "air"
+        "truncheon"
     ],
     "victims": [
         "pensioner",
@@ -49,7 +39,13 @@
         "Brit",
         "Brit patriot",
         "polish",
-        "muslim"
+        "Schoolgirl",
+        "British Graduate",
+        "British Soldier",
+        "Serviceman",
+        "Brit War Hero",
+        "\"Racist\" woman",
+        "Englishman"
     ],
     "badguys": [
         "muslim",
@@ -67,11 +63,19 @@
         "immigrant",
         "refugee",
         "French",
-        "left-wing nutter",
+        "Socialist",
         "GP",
         "Asian doctor",
         "Jeremy Kyle",
-        "Morrissey"
+        "Morrissey",
+        "Taxman",
+        "Corporate Giants",
+        "Hardcore Criminals",
+        "Councillor",
+        "Aristocrat",
+        "Teenager",
+        "MEP",
+        "The EU"
     ],
     "materials": [
         "horsemeat",
@@ -83,7 +87,9 @@
         "cocaine",
         "gun",
         "knife",
-        "drug"
+        "drug",
+        "canabis",
+        "road side bomb"
     ],
     "quotes": [
         "You're Fired",
@@ -94,7 +100,8 @@
         "You have cancer",
         "We hate you",
         "Get out!",
-        "You are obese"
+        "You are obese",
+        "Eight at the same time..."
     ],
     "ailments": [
         "cancer",
@@ -105,6 +112,9 @@
         "bird flu",
         "H5N1",
         "foot and mouth disease",
-        "MRSA"
+        "MRSA",
+        "Fat Blindness",
+        "Coma",
+        "Triple Amputee"
     ]
 }
