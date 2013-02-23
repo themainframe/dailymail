@@ -51,6 +51,3 @@ function gen_dm_headline()
 
   return $form;
 }
-
-
-print gen_dm_headline();
