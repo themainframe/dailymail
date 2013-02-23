@@ -23,7 +23,12 @@
         "%badsynonym %object stash discovered in local neighbourhood... BY %victim",
         "REVEALED: MANSION-OWNING %badguy has been claiming benefits for %lowrand months",
         "REVEALED: The %badsynonym scheme by %badguy to divert YOUR tax money",
-        "SHOCKING: University gives place to %badguy - %victim left JOBLESS"
+        "SHOCKING: University gives place to %badguy - %victim left JOBLESS",
+        "Ofsted report finds %badguys serving school meals - %victims outraged",
+        "Labour MP buys %lowrandth home - claims on expenses - %victims angered",
+        "%badguy caught in smut film by holidaymaker and %victim",
+        "Leaked memo says HMRC wants %lowrand% tax rise... ON %object!",
+        "Benefits claimant buys luxury %object while %victim starves"
     ],
     "objects": [
         "cancer",
@@ -35,7 +40,8 @@
         "porn",
         "MP's expenses",
         "9/11",
-        "London bombing"
+        "London bombing",
+        "Smut films"
     ],
     "victims": [
         "pensioner",
@@ -112,7 +118,10 @@
         "Simon Cowell",
         "Gay lovers",
         "Naked man",
-        "Feminist"
+        "Feminist",
+        "chinese hackers",
+        "Home office",
+        "Tax office"
     ],
     "materials": [
         "horsemeat",
@@ -140,7 +149,8 @@
         "You are obese",
         "We don't like your type",
         "Spare any change?",
-        "Just go and die"
+        "Just go and die",
+        "We will kill you"
     ],
     "ailments": [
         "cancer",
@@ -171,6 +181,8 @@
         "horrific",
         "unpatriotic",
         "scandalous",
-        "disruptive"
+        "disruptive",
+        "filthy",
+        "attrocious"
     ]
 }
