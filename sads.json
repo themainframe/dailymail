@@ -121,7 +121,10 @@
         "Feminist",
         "chinese hackers",
         "Home office",
-        "Tax office"
+        "Tax office",
+        "Oscar Pistorius",
+        "Green Party",
+        "Police & Crime Comissioner"
     ],
     "materials": [
         "horsemeat",
@@ -135,7 +138,9 @@
         "knife",
         "drug",
         "canabis",
-        "road side bomb"
+        "road side bomb",
+        "windfarms",
+        "cheap mobile phone"
     ],
     "quotes": [
         "You're Fired",
@@ -150,7 +155,11 @@
         "We don't like your type",
         "Spare any change?",
         "Just go and die",
-        "We will kill you"
+        "We will kill you",
+        "He fondled me!",
+        "You are obscene",
+        "Don't come back",
+        "Pay the bills"
     ],
     "ailments": [
         "cancer",
@@ -165,7 +174,8 @@
         "Fat Blindness",
         "Comas",
         "ruptured liver",
-        "hearing loss"
+        "hearing loss",
+        "gastric band"
     ],
     "badsynonyms": [
         "evil",
