@@ -28,7 +28,10 @@
         "Labour MP buys %lowrandth home - claims on expenses - %victims angered",
         "%badguy caught in smut film by holidaymaker and %victim",
         "Leaked memo says HMRC wants %lowrand% tax rise... ON %object!",
-        "Benefits claimant buys luxury %object while %victim starves"
+        "Benefits claimant buys luxury %object while %victim starves",
+        "%badguy gets their own jacuzzi and a gym in jail",
+        "Call for ban on %badsynonym %object",
+        "Gay Mafia want more %object - %victim disgusted"
     ],
     "objects": [
         "cancer",
@@ -41,7 +44,8 @@
         "MP's expenses",
         "9/11",
         "London bombing",
-        "Smut films"
+        "Smut films",
+        "Gay Smut"
     ],
     "victims": [
         "pensioner",
@@ -124,7 +128,11 @@
         "Tax office",
         "Oscar Pistorius",
         "Green Party",
-        "Police & Crime Comissioner"
+        "Police & Crime Comissioner",
+        "Ian Huntley",
+        "Criminals",
+        "Teen Boys",
+        "Muslim Women"
     ],
     "materials": [
         "horsemeat",
