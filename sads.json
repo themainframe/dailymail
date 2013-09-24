@@ -31,7 +31,11 @@
         "Benefits claimant buys luxury %object while %victim starves",
         "%badguy gets their own jacuzzi and a gym in jail",
         "Call for ban on %badsynonym %object",
-        "Gay Mafia want more %object - %victim disgusted"
+        "Gay Mafia want more %object - %victim disgusted",
+        "Students want to spend your tax money on alcohol and %object",
+        "%victim suffers at hands of %badsynonym %badguy",
+        "University students TEN TIMES more likely to become a %badguy",
+        "Council worker steals £%lowrand million from %victim. Court finds him NOT GUILTY."
     ],
     "objects": [
         "cancer",
